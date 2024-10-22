@@ -1,9 +1,12 @@
 # Qixer
-Qixer - 多供应商按需杂工服务市场和服务查找系统
+Qixer - 多供应商按需兼职和兼职工作查找系统
 
-Qixer – 按需服务市场和服务查找器 Laravel 平台。它有 4 个主页变体，适合任何人展示您的小型/中型/大型服务型商业网站的需求。它是一个多供应商服务脚本，任何人都可以通过您的这个平台注册并提供他的服务。它具有高度可定制性，它具有许多很棒的功能，例如拖放页面生成器、拖放菜单生成器、拖放表单生成器、拖放小部件生成器等等。它兼容台式机、笔记本电脑、手机，也兼容主流浏览器。
+Qixer – 按需兼职工作和兼职工作查找系统 Laravel 平台。它有 4 个主页变体，适合任何人展示您的小型/中型/大型服务型商业网站的需求。
+它是一个多供应商兼职工作脚本，任何人都可以通过您的这个平台注册并提供他的兼职服务。它具有高度可定制性，它具有许多很棒的功能，
+例如拖放页面生成器、拖放菜单生成器、拖放表单生成器、拖放小部件生成器等等。它兼容台式机、笔记本电脑、手机，也兼容主流浏览器。
 
-我们添加了进行 SEO 所需的所有东西，特别是为所有支持 facebook/twitter 的博客添加了 og meta 支持。它支持 20 多个支付网关，Paypal、Stripe、Paytm、Flutterwave Rave、Razorpay、Mollie、Paystack、Midtrans、Mercado Pago、Cashfree、Payfast、Instamojo、Squareup、Cinetpay、Paytabs、BillPlz、Zitopay、手动付款、银行付款、支票付款、货到付款等
+我们添加了进行 SEO 所需的所有东西，特别是为所有支持 facebook/twitter 的博客添加了 og meta 支持。
+它支持 20 多个支付网关，Paypal、Stripe、Paytm、Flutterwave Rave、Razorpay、Mollie、Paystack、Midtrans、Mercado Pago、Cashfree、Payfast、Instamojo、Squareup、Cinetpay、Paytabs、BillPlz、Zitopay、手动付款、银行付款、支票付款、货到付款等
 
 最后更新：2024 年 7 月 14 日
 版本：2.5.0
@@ -11,7 +14,7 @@ Laravel 9x
 所需 PHP v8.1
 所需 Mysql v5.7
 
-前端演示： Qixer – 按需服务市场和服务查找器
+前端演示： Qixer – 按需兼职和兼职工作查找系统
 演示链接：https://qixer.it1024.xyz/
 
 超级管理员演示： https://qixer.it1024.xyz/login/admin
